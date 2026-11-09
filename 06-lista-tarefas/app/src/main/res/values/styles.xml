@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Tarefas" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#F8FAF7</item>
+        <item name="android:navigationBarColor">#F8FAF7</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+</resources>
